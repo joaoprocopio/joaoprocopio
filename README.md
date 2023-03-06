@@ -1,16 +1,25 @@
-### Hi there 👋
+```sh
+$ whoami
 
-<!--
-**joaoprocopio/joaoprocopio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+first_name="João Vitor"
+last_name="Cabral Procópio"
+occupation="Software Engineer"
+based_on="Brazil"
+interests=(
+  "Product Engineering"
+  "User Experience and User Interface"
+)
+languages=(
+  "English"
+  "Portuguese"
+)
+programming_languages=(
+  "TypeScript"
+  "Python"
+  "Dart"
+)
+information_on=(
+  ["portfolio"]="https://joaoprocopio.github.io/"
+  ["linked_in"]="https://www.linkedin.com/in/joao-procopio/"
+)
+```
