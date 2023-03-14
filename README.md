@@ -7,7 +7,8 @@ occupation="Software Engineer"
 based_on="Brazil"
 interests=(
   "Product Engineering"
-  "User Experience and User Interface"
+  "User Experience"
+  "User Interface"
 )
 languages=(
   "English"
@@ -15,8 +16,16 @@ languages=(
 )
 programming_languages=(
   "TypeScript"
+  "JavaScript"
   "Python"
   "Dart"
+)
+frontend_frameworks=(
+  "Flutter"
+  "Vue.js"
+)
+backend_frameworks=(
+  "Django"
 )
 information_on=(
   ["portfolio"]="https://joaoprocopio.github.io/"
