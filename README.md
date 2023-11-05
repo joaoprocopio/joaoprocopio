@@ -6,7 +6,7 @@ Gosto de participar do desenvolvimento de produtos em todas as suas etapas, desd
 
 Tenho experiência em diversas linguagens de programação e ferramentas, e acredito que é importante escolher a ferramenta certa para cada tarefa.
 
-### Com o que venho trabalhado ultimamente?
+### Com o que venho trabalhado?
 
 #### Front-end
   - TypeScript/JavaScript
