@@ -4,20 +4,22 @@ Sou um Engenheiro de Software brasileiro. 🇧🇷
 
 Gosto de participar do desenvolvimento de produtos em todas as suas etapas, desde o início até o fim. Posso contribuir desde a definição da infraestrutura até a entrega final do produto ao usuário.
 
-Tenho experiência em diversas linguagens de programação e ferramentas, e acredito que é importante escolher a ferramenta certa para cada tarefa.  
-Ultimamente, tenho trabalhado em:
-- Front-end com:
+Tenho experiência em diversas linguagens de programação e ferramentas, e acredito que é importante escolher a ferramenta certa para cada tarefa.
+
+#### Com o que venho trabalhado ultimamente?
+
+Front-end com:
   - TypeScript/JavaScript
   - React
   - Vue
   - Nuxt
-- Back-end com:
+Back-end com:
   - TypeScript/JavaScript
   - Python
   - Express
   - Django
   - FastAPI
-- DevOps utilizando:
+DevOps com:
   - Terraform
   - Docker
   - AWS
