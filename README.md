@@ -8,28 +8,31 @@ Tenho experiência em diversas linguagens de programação e ferramentas, e acre
 
 #### Com o que venho trabalhado ultimamente?
 
-Front-end com:
+##### Front-end
   - TypeScript/JavaScript
   - React
   - Vue
   - Nuxt
-Back-end com:
+
+##### Back-end
+
   - TypeScript/JavaScript
   - Python
   - Express
   - Django
   - FastAPI
-DevOps com:
+
+##### DevOps
   - Terraform
   - Docker
   - AWS
   - CI/CD Pipelines
 
+#### Qual meu foco atual?
+
 Atualmente, estou focado em aprimorar meus conhecimentos em Arquitetura de Front-end, Experiência do Usuário e Design. Buscando aplicar essas habilidades nos produtos em que eu estou construindo atualmente.
 
-Você pode me encontrar nos seguintes lugares:
+#### Aqui me despeço e deixo alguns links!
 
 - [Portfólio](https://joaoprocopio.com.br/)
-- [GitHub](https://github.com/joaoprocopio/)
 - [LinkedIn](https://www.linkedin.com/in/joao-procopio/)
-- [Medium](https://joaoprocopio.medium.com/)
