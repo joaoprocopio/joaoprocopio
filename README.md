@@ -6,7 +6,7 @@ Gosto de participar do desenvolvimento de produtos em todas as suas etapas, desd
 
 Tenho experiência em diversas linguagens de programação e ferramentas, e acredito que é importante escolher a ferramenta certa para cada tarefa.
 
-### Com o que venho trabalhado?
+### Com o que venho trabalhado
 
 #### Front-end
   - TypeScript/JavaScript
@@ -28,7 +28,7 @@ Tenho experiência em diversas linguagens de programação e ferramentas, e acre
   - AWS
   - CI/CD Pipelines
 
-### Qual meu foco atual?
+### Meu foco atual
 
 Atualmente, estou focado em aprimorar meus conhecimentos em Arquitetura de Front-end, Experiência do Usuário e Design. Buscando aplicar essas habilidades nos produtos em que eu estou construindo atualmente.
 
