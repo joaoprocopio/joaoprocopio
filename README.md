@@ -32,7 +32,7 @@ Tenho experiência em diversas linguagens de programação e ferramentas, e acre
 
 Atualmente, estou focado em aprimorar meus conhecimentos em Arquitetura de Front-end, Experiência do Usuário e Design. Buscando aplicar essas habilidades nos produtos em que eu estou construindo atualmente.
 
-#### Aqui me despeço e deixo alguns links!
+### Aqui me despeço e deixo alguns links!
 
 - [Portfólio](https://joaoprocopio.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/joao-procopio/)
