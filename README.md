@@ -6,15 +6,15 @@ Gosto de participar do desenvolvimento de produtos em todas as suas etapas, desd
 
 Tenho experiência em diversas linguagens de programação e ferramentas, e acredito que é importante escolher a ferramenta certa para cada tarefa.
 
-#### Com o que venho trabalhado ultimamente?
+### Com o que venho trabalhado ultimamente?
 
-##### Front-end
+#### Front-end
   - TypeScript/JavaScript
   - React
   - Vue
   - Nuxt
 
-##### Back-end
+#### Back-end
 
   - TypeScript/JavaScript
   - Python
@@ -22,13 +22,13 @@ Tenho experiência em diversas linguagens de programação e ferramentas, e acre
   - Django
   - FastAPI
 
-##### DevOps
+#### DevOps
   - Terraform
   - Docker
   - AWS
   - CI/CD Pipelines
 
-#### Qual meu foco atual?
+### Qual meu foco atual?
 
 Atualmente, estou focado em aprimorar meus conhecimentos em Arquitetura de Front-end, Experiência do Usuário e Design. Buscando aplicar essas habilidades nos produtos em que eu estou construindo atualmente.
 
